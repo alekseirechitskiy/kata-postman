@@ -20,6 +20,8 @@ Response:
     }
 }
 ```
+<img src="./registration.png">
+
 ### 2. Login
 POST:
 ```
@@ -40,6 +42,7 @@ Response:
     }
 }
 ```
+<img src="./login.png">
 
 ### 3. Get current
 GET:
@@ -56,3 +59,5 @@ Response:
     }
 }
 ```
+<img src="./get-current-1.png">
+<img src="./get-current-2.png">
